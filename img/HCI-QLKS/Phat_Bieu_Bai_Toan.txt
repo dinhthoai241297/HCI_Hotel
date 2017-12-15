@@ -1,0 +1,12 @@
+﻿// Phát biểu bài toán
+	- Hiện nay, dịch vụ nhà hàng khách sạn đang được phát triển qquy mô lớn. Số lượng nhà hàng khách sạn đang ngày càng tăng, dẫn đến các dịch vụ cho khách sạn không thể đáp ứng được những nhu cầu trước đây. Vì vậy bên cạnh việc kinh doanh về khách sạn, Khác sạn TT mở rộng thêm bên dịch vụ nhà hàng nhằm đáp ứng đầy đủ và kịp thời những yêu cầu của khách sạn, tạo nên sự khác biệt giữa các khác sạn với nhau.
+	1. Quản lý phòng (Thêm, xóa, sửa và tra cứu phòng)
+		- Loại phòng
+		- Thiết bị trong phòng
+	2. QL Khách hàng
+	3. QL nhân viên
+	4. QL dịch vụ phòng:
+		- thuê phòng
+		- trả phòng
+		- đổi phòng
+	5. QL Dịch vụ khác

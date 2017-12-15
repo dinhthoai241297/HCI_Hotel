@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+
+		@keyframes myRotate {
+			0% {transform: rotateY(0deg);}
+			10% {transform: rotateY(180deg);}
+			20% {transform: rotateY(0deg);}
+		}
+
+		#test {
+			width: 100px;
+			height: 100px;
+			background-color: red;
+			animation-duration: 10s;
+			animation-name: myRotate;
+			animation-delay: 2s;
+			animation-iteration-count: infinite;
+		}
+
+</style>
+</head>
+<body>
+	<div id="test">test text</div>
+	<div style="width: 100px; height: 100px; background-color: green" onclick="test()"></div>
+	<script>
+		
+		function test() {
+			alert("you can do that");
+		}
+
+	</script>
+</body>
+</html>
